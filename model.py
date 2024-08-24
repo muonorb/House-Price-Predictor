@@ -8,7 +8,7 @@ from sklearn.ensemble import RandomForestRegressor
 from sklearn.model_selection import GridSearchCV
 import joblib
 
-data = pd.read_csv("/Volumes/Deep/Python/Datasets/housing.csv")
+data = pd.read_csv("housing.csv")
 data = data.dropna(axis=0)
 
 x_feature = ['longitude', 'latitude', 'housing_median_age', 'total_bedrooms', 'population', 'households', 'median_income', 'ocean_proximity']
