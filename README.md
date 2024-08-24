@@ -42,7 +42,7 @@ This project focuses on predicting housing prices using machine learning techniq
 
 1. Run the Streamlit application:
 
-   streamlit run app.py
+   streamlit run main.py
 
 2. Open the provided URL in your web browser to access the interface.
 
