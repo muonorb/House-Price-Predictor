@@ -28,11 +28,11 @@ This project focuses on predicting housing prices using machine learning techniq
 
 1. Clone this repository:
 
-   git clone https://github.com/your-username/house-price-prediction.git
+   git clone https://github.com/muonorb/House-Price-Predictor.git
 
 2. Navigate to the project directory:
 
-   cd house-price-prediction
+   cd House-Price-Predictor
 
 3. Install the required libraries:
 
